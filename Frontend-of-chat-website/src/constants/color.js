@@ -1,0 +1,10 @@
+export const orange = '#ea7070';
+export const grayColor = 'rgba(247,247,247,1)';
+export const lightBlue='#2694ab';
+export const maltBlack = '#1c1c1c';
+export const bgGradient = "linear-gradient(rgba(0, 229, 134, 0.5),rgba(120,110,220,0.5))";
+export const bgGradient2 = "linear-gradient(rgba(216, 87, 64, 0.5),rgba(120,110,220,0.5))";
+export const chatGradient = 'linear-gradient(rgb(50 21 21 / 50%), rgba(120, 110, 220, 0.5))';
+export const purple = 'rgba(75,12,192,1)';
+export const purpleLight = 'rgba(75,12,192,0.2)';
+export const orangeLite = 'rgba(234,112,112,0.2)'
